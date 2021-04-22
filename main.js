@@ -5,7 +5,7 @@ var score = 0;
 
 var userName = readlineSync.question("Enter your name: ");
 
-console.log("Welcome " + userName + "to DO YOU KNOW Zeeshan? ");
+console.log("Welcome " + userName + " to DO YOU KNOW Zeeshan? ");
 console.log("Rules: You will be awarded 2 points for each correct answer");
 console.log("<------------------------------------------->");
 
