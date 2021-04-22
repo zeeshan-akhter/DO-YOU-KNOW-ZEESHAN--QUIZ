@@ -29,7 +29,7 @@ var questions = [{
     answer: "zeeshan akhter"
 },{
     question: "My birth date? ",
-    answer: "28 "
+    answer: "28"
 },{
     question: "What is my age? ",
     answer: "18"
